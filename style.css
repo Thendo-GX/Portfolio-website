@@ -1,0 +1,22 @@
+h1 {
+    color: rgb(124, 124, 124);
+    text-align: center;
+}
+
+h1:hover {
+    color: rebeccapurple;
+    cursor: not-allowed;
+}
+img {
+    height: 200px;
+    width: 100px;
+    border: 2px blueviolet solid;
+    }
+
+img:hover {
+    scale: 2;
+    
+}
+ul {
+    background-color: aquamarine;
+}
